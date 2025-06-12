@@ -4,7 +4,10 @@ Generador de proyectos Node.js con estructura base, ideal para comenzar rápidam
 
 ## ⚠️ **Importante**
 >Este proyecto necesita que **MongoDB esté instalado y ejecutándose** en tu sistema.
+**O**
+>necesitas tener el **MongoDB Atlas** y el **URL** de la conexion.
 
+# Si tienes instalado **MongoDB** en tu sistema:
 Puedes verificar que está corriendo ejecutando:
 
 ```bash
@@ -21,7 +24,8 @@ mongosh
 👉 https://www.mongodb.com/try/download/community   
 ℹ️ Si no quieres usar MongoDB localmente, usa Atlas:  
 👉 https://cloud.mongodb.com  
-- [¿Cómo usar MongoDB Atlas?]()
+- [¿Cómo usar MongoDB Atlas?]()  
+- [¿Cómo instalar MongoDB y MongoSh en tu sistema?]()
 ---
 
 ## 🛠 ¿Qué hace este generador?
