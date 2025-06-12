@@ -7,7 +7,7 @@ Generador de proyectos Node.js con estructura base, ideal para comenzar rápidam
 **O**
 >necesitas tener el **MongoDB Atlas** y el **URL** de la conexion.
 
-# Si tienes instalado **MongoDB** en tu sistema:
+### Si tienes instalado **MongoDB** en tu sistema:
 Puedes verificar que está corriendo ejecutando:
 
 ```bash
