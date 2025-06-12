@@ -21,7 +21,7 @@ mongosh
 👉 https://www.mongodb.com/try/download/community   
 ℹ️ Si no quieres usar MongoDB localmente, usa Atlas:  
 👉 https://cloud.mongodb.com  
-[¿Cómo usar MongoDB Atlas?](.git/Atlas.md)
+-[¿Cómo usar MongoDB Atlas?]()
 ---
 
 ## 🛠 ¿Qué hace este generador?
