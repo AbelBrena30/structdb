@@ -17,10 +17,10 @@ Para entrar a la consola interactiva de MongoDB y hacer consultas, abre otra ter
 ```bash
 mongosh
 ```
-ℹ️ Si no tienes MongoDB instalado, descárgalo desde:
-👉 https://www.mongodb.com/try/download/community
-ℹ️ Si no quieres usar MongoDB localmente, usa Atlas:
-👉 https://cloud.mongodb.com
+ℹ️ Si no tienes MongoDB instalado, descárgalo desde:  
+👉 https://www.mongodb.com/try/download/community  
+ℹ️ Si no quieres usar MongoDB localmente, usa Atlas:  
+👉 https://cloud.mongodb.com  
 [¿Cómo usar MongoDB Atlas?](.git/Atlas.md)
 ---
 
